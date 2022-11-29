@@ -4,7 +4,7 @@ import { Button } from "../styles/Button";
 import styled from "styled-components";
 
 const HeroSection = ( {myData} ) => {
-    console.log(myData);
+    // console.log(myData);
     const {name} = myData;
   return (
     <Wrapper>
